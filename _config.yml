@@ -43,18 +43,21 @@ roles:
    end: 2016
    employer: Covestor
    description: Covestor is an investment marketplace startup that was successfully acquired by Interactive Brokers in 2015. <br/> Working as a senior engineer, I worked closely with the CTO and across the full-stack, I was involved in all aspects of the technology including the website and back-end services.
- - title: Associate Manager
-   start: 2005
-   end: 2012
-   employer: Accenture
-   description: Working on a range of functional and technical roles, primarily working on client sites in Financial Services in London and Europe.
-
+ - title: Intern
+   start: 2015
+   end: 2015
+   employer: Rysta
+   description: Development of “RYSTA”, an IOT device with Wi-Fi microcontroller and seven I2C sensors.
+      •	Designing a system, which records the sensors data eg; Temperature, Pressure, Humidity, Soil Moisture, Air quality and MEMS microphone
+      •	Developing Prototypes with Wi-Fi micro-controller and digital I2C Sensors
+      •	Circuit design and layout in Eagle-CAD, simulations in Pspice and firmware development in C
+      
 #Education is required
 education:
- - level: Bachelor of Science (B.Sc.)
-   date: 2003
-   subject: Artificial Intelligence and Computer Science
-   school: University of Birmingham
+ - level: Master of Science (M.Sc.)
+   date: 2017
+   subject: Micro and Nano Systems
+   school: Technical University Chemnitz
 
 #This section is optional (as is the image link below)
 coursera:
